@@ -1,0 +1,13 @@
+/* Estilos predeterminados (modo claro) */
+body {
+    background-color: white;
+    color: black;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  /* Estilos para el modo oscuro */
+  body.dark-theme {
+    background-color: #121212;
+    color: white;
+  }
+  
